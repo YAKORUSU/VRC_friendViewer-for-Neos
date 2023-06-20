@@ -1,0 +1,2 @@
+# VRC_friendViewer-for-Neos
+VRCのfriendのログイン通知やイベント通知をNeosで受け取りたい
